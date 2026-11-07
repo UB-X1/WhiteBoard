@@ -5,7 +5,7 @@ A dynamic whiteboard application built with **React**, **HTML5 Canvas**, and sty
 ---
 
 ## 🔗 Live Demo
-Check out the live application here: [[Whiteboard Application](#)](https://onlinewhiteboardproject.vercel.app/)
+Check out the live application here: (https://onlinewhiteboardproject.vercel.app/)
 
 ---
 
